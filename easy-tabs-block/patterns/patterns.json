@@ -2,6 +2,24 @@
 	{
 		"etb_pattern_selected_plan": "pro",
 		"etb_pattern_require_icon_block": 0,
+		"id": 4345,
+		"title": "Pattern 76",
+		"preview": "https:\/\/easytabsblock.com\/app\/uploads\/2026\/06\/etb-patterns-pattern-76-thumbnail.png",
+		"categories": ["pricing table", "pro"],
+		"link": "https:\/\/easytabsblock.com\/etb_patterns\/pattern-76\/"
+	},
+	{
+		"etb_pattern_selected_plan": "pro",
+		"etb_pattern_require_icon_block": 0,
+		"id": 6419,
+		"title": "Pattern 91",
+		"preview": "https:\/\/easytabsblock.com\/app\/uploads\/2026\/06\/etb-patterns-pattern-69-thumbnail.png",
+		"categories": ["autoplay tabs", "horizontal tabs"],
+		"link": "https:\/\/easytabsblock.com\/etb_patterns\/pattern-91\/"
+	},
+	{
+		"etb_pattern_selected_plan": "pro",
+		"etb_pattern_require_icon_block": 0,
 		"id": 4331,
 		"title": "Pattern 69",
 		"preview": "https:\/\/easytabsblock.com\/app\/uploads\/2026\/05\/etb-patterns-pattern-69-thumbnail.webp",

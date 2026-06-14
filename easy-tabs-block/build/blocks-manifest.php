@@ -5,7 +5,7 @@ return array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
 		'name' => 'easy-tabs-block/tab-button',
-		'version' => '1.0.9',
+		'version' => '2.0.0',
 		'title' => 'Tab Button',
 		'description' => 'A customizable button for tab navigation, allowing users to switch between different content sections seamlessly.',
 		'parent' => array(
@@ -64,7 +64,7 @@ return array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
 		'name' => 'easy-tabs-block/tab-buttons',
-		'version' => '1.0.9',
+		'version' => '2.0.0',
 		'title' => 'Tab Buttons',
 		'description' => 'A block for tabbed navigation buttons, improving user experience by organizing content.',
 		'ancestor' => array(
@@ -140,7 +140,7 @@ return array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
 		'name' => 'easy-tabs-block/tab-content',
-		'version' => '1.0.9',
+		'version' => '2.0.0',
 		'title' => 'Tab Content',
 		'description' => 'A block for displaying content within tabs, allowing users to switch between different sections seamlessly.',
 		'supports' => array(
@@ -211,7 +211,7 @@ return array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
 		'name' => 'easy-tabs-block/tab-contents',
-		'version' => '1.0.9',
+		'version' => '2.0.0',
 		'title' => 'Tab Contents',
 		'description' => 'This block displays content organized into tabs, enabling users to easily switch between different sections.',
 		'supports' => array(
@@ -282,7 +282,7 @@ return array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
 		'name' => 'easy-tabs-block/tab-icon',
-		'version' => '1.0.9',
+		'version' => '2.0.0',
 		'title' => 'Tab Icon',
 		'icon' => 'marker',
 		'description' => 'A block for displaying an icon for a tab.',
@@ -309,7 +309,7 @@ return array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
 		'name' => 'easy-tabs-block/tabs',
-		'version' => '1.0.9',
+		'version' => '2.0.0',
 		'title' => 'Tabs',
 		'category' => 'widgets',
 		'allowedBlocks' => array(

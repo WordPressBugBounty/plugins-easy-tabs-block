@@ -2,21 +2,21 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Easy Tabs Block – Fast & Responsive Tabs with Built-in Smooth Accordion 1.0.9\n"
+"Project-Id-Version: Easy Tabs Block – Smart, Lightweight & Responsive Tabs for the Block Editor 2.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easy-tabs-block\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-04-09T17:53:56+00:00\n"
+"POT-Creation-Date: 2026-06-14T16:17:44+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: easy-tabs-block\n"
 
 #. Plugin Name of the plugin
 #: easy-tabs-block.php
-msgid "Easy Tabs Block – Fast & Responsive Tabs with Built-in Smooth Accordion"
+msgid "Easy Tabs Block – Smart, Lightweight & Responsive Tabs for the Block Editor"
 msgstr ""
 
 #. Plugin URI of the plugin
@@ -35,7 +35,7 @@ msgstr ""
 msgid "Easy Tabs Block"
 msgstr ""
 
-#: easy-tabs-block.php:148
+#: easy-tabs-block.php:158
 msgid "Patterns file not found"
 msgstr ""
 
@@ -138,20 +138,20 @@ msgstr ""
 #: build/tab-buttons/index.js:1
 #: build/tab-content/index.js:1
 #: build/tab-contents/index.js:1
-#: src/tab-button/edit.js:303
-#: src/tab-buttons/edit.js:138
-#: src/tab-content/edit.js:75
-#: src/tab-contents/edit.js:42
+#: src/tab-button/edit.js:326
+#: src/tab-buttons/edit.js:140
+#: src/tab-content/edit.js:85
+#: src/tab-contents/edit.js:45
 msgid "Easy Tabs Block Settings"
 msgstr ""
 
 #: build/tab-button/index.js:1
-#: src/tab-button/edit.js:313
+#: src/tab-button/edit.js:336
 msgid "Duplicate Tab"
 msgstr ""
 
 #: build/tab-button/index.js:1
-#: src/tab-button/edit.js:320
+#: src/tab-button/edit.js:343
 msgid "Delete Tab"
 msgstr ""
 
@@ -182,13 +182,13 @@ msgid "Tab 3"
 msgstr ""
 
 #: build/tab-buttons/index.js:1
-#: src/tab-buttons/edit.js:120
+#: src/tab-buttons/edit.js:122
 #: src/tab-buttons/save.js:46
 msgid "Scroll to the left"
 msgstr ""
 
 #: build/tab-buttons/index.js:1
-#: src/tab-buttons/edit.js:126
+#: src/tab-buttons/edit.js:128
 #: src/tab-buttons/save.js:52
 msgid "Scroll to the right"
 msgstr ""
@@ -693,7 +693,7 @@ msgstr ""
 
 #: build/tabs/index.js:2
 #: src/tabs/components/LayoutVariationSelector.js:88
-#: src/tabs/edit.js:50
+#: src/tabs/edit.js:51
 msgid "Tabs"
 msgstr ""
 
@@ -708,17 +708,17 @@ msgid "Back"
 msgstr ""
 
 #: build/tabs/index.js:2
-#: src/tabs/edit.js:51
+#: src/tabs/edit.js:52
 msgid "Choose a pattern for the tabs or start blank."
 msgstr ""
 
 #: build/tabs/index.js:2
-#: src/tabs/edit.js:57
+#: src/tabs/edit.js:58
 msgid "Choose pattern"
 msgstr ""
 
 #: build/tabs/index.js:2
-#: src/tabs/edit.js:60
+#: src/tabs/edit.js:61
 msgid "Start blank"
 msgstr ""
 
